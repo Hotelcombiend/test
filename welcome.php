@@ -1,2 +1,2 @@
-Welcome <?php echo $_POST["name"]; ?>.
-You are <?php echo $_POST["age"]; ?> year old
+Welcome <?php echo $_GET["name"]; ?>.
+You are <?php echo $_GET["age"]; ?> year old
